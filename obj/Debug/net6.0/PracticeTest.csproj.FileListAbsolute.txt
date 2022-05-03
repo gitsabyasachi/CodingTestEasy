@@ -1,0 +1,15 @@
+C:\Users\rickd\source\repos\PracticeTest\bin\Debug\net6.0\PracticeTest.exe
+C:\Users\rickd\source\repos\PracticeTest\bin\Debug\net6.0\PracticeTest.deps.json
+C:\Users\rickd\source\repos\PracticeTest\bin\Debug\net6.0\PracticeTest.runtimeconfig.json
+C:\Users\rickd\source\repos\PracticeTest\bin\Debug\net6.0\PracticeTest.dll
+C:\Users\rickd\source\repos\PracticeTest\bin\Debug\net6.0\PracticeTest.pdb
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.csproj.AssemblyReference.cache
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.AssemblyInfoInputs.cache
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.AssemblyInfo.cs
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.csproj.CoreCompileInputs.cache
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.dll
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\refint\PracticeTest.dll
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.pdb
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\PracticeTest.genruntimeconfig.cache
+C:\Users\rickd\source\repos\PracticeTest\obj\Debug\net6.0\ref\PracticeTest.dll
